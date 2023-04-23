@@ -56,3 +56,14 @@ int main() {
 
     return 0;
 }
+
+
+
+output 
+./main
+You can enter exit anytime you quit.
+
+Fake!
+please enter a CC number to validate: 8989474754542121
+
+  Valid!
